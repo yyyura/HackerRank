@@ -44,7 +44,7 @@ public class AA_JavaAnagrams {
     public static void main(String[] args) {
 
 
-        boolean ret = isAnagram("Anagrams", "margaNax");
+        boolean ret = isAnagram("Anagram", "margaNa");
         System.out.println((ret) ? "Anagrams" : "Not Anagrams");
     }
 
