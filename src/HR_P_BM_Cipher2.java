@@ -1,5 +1,7 @@
 public class HR_P_BM_Cipher2 {
     // https://www.hackerrank.com/challenges/cipher/problem
+    // https://wf9a5m75.github.io/HackerRank/algorithm/bit-manipulation/cipher/whiteboard.jpg
+    // https://www.hackerrank.com/challenges/cipher/forum/comments/705850
 
     static String cipher(int k, String s) {
 
